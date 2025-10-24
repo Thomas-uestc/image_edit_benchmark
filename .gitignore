@@ -55,8 +55,8 @@ checkpoint.json
 # Data
 *.json
 !config_template.yaml
-data/
-benchmark_data/
+# data/
+# benchmark_data/
 
 # Images
 *.png
