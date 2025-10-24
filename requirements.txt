@@ -1,0 +1,27 @@
+# Core dependencies
+numpy>=1.24.0
+Pillow>=10.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data handling
+pyyaml>=6.0
+jsonschema>=4.17.0
+
+# Image processing
+opencv-python>=4.8.0
+
+# Logging and utilities
+tqdm>=4.65.0
+colorlog>=6.7.0
+
+# Optional: Common diffusion model dependencies
+# diffusers>=0.21.0
+# transformers>=4.30.0
+# accelerate>=0.20.0
+
+# Optional: API clients
+# requests>=2.31.0
+# openai>=1.0.0
+
+
