@@ -236,3 +236,4 @@ diffusion_model.load_to_gpu(parallel=False)
 
 **系统已全面优化完成！** 🎉
 
+

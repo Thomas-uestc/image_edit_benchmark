@@ -41,3 +41,4 @@ echo ""
 echo "如果要监控GPU使用率，请在另一个终端运行："
 echo "  watch -n 1 nvidia-smi"
 
+
